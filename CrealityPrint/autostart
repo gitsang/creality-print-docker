@@ -1,1 +1,2 @@
-/usr/local/bin/CrealityPrint
+/usr/local/bin/CrealityPrint --appimage-extract
+./squashfs-root/AppRun
